@@ -1,0 +1,10 @@
+name: LevelTest
+version: 1.0.0
+authro: flymia
+main: me.leveltest.main.LevelPlugin
+
+commands:
+     level:
+         usage: /level <register>
+         description: Lol.
+         default: op
